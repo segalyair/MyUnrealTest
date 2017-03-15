@@ -2,7 +2,7 @@
 	"TargetName" : "MyProjectEditor",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "",
+	"BuildId" : "a51c5884-e2f9-43f3-b249-cf997854ee5c",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -17,15 +17,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-MyProject.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-MyProject-6282.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-MyProject.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-MyProject-6282.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-6282.lib",
 			"Type" : "ImportLibrary"
 		},
 		{

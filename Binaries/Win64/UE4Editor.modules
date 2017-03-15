@@ -1,8 +1,8 @@
 {
 	"Changelist" : 3299760,
-	"BuildId" : "",
+	"BuildId" : "a51c5884-e2f9-43f3-b249-cf997854ee5c",
 	"Modules" : 
 	{
-		"MyProject" : "UE4Editor-MyProject.dll"
+		"MyProject" : "UE4Editor-MyProject-6282.dll"
 	}
 }
